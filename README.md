@@ -10,8 +10,8 @@ The **Background Changer** is a simple yet interactive React application that al
 
 ## 🛠️ Tech Stack  
 - React.js  
-- CSS
 - HTML
+- CSS
 - JavaScript
 
 ## 📦 Installation & Setup  
